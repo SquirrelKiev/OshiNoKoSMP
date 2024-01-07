@@ -1,0 +1,13 @@
+name = "Advancement Frames"
+filename = "advancementframes-1.20-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "429f82335fb1fc434596f7471ae4e7c958d08bbf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4655226
+project-id = 556795
