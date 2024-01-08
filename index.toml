@@ -9286,7 +9286,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium-plus.pw.toml"
-hash = "752a909969b368eba91cfa87789a6d7f6dd77946dd0cb309752e1b8d79bf35ff"
+hash = "15cc53ebc7d6b7cc70e701a8d9dbe7a173e4753fa603f23979153500b36fe51e"
 metafile = true
 
 [[files]]
@@ -9301,7 +9301,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "09d8e90563eccd14036316e3251c6bbee1408e6d5e0f405bb8f42e44ec2c85d7"
+hash = "41e154a834d43d38f71b19889a090233a26527c9ff963d7342df6d9e9aa63f65"
 metafile = true
 
 [[files]]
@@ -9566,7 +9566,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ed71c0d0d5dcc475a8077bb14b9ccdaccd1b009f9d57e12dea9cd44391d73fc6"
+hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
 metafile = true
 
 [[files]]
@@ -9611,7 +9611,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0cd3b7d8a4f6239421c354069ae860b8555f3568d595879a081da55c88806364"
+hash = "619a019ab398c26a851e7715db6dc6f7e897d54e852686a321769b20df7b7290"
 metafile = true
 
 [[files]]
