@@ -9160,10 +9160,6 @@ hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
 metafile = true
 
 [[files]]
-file = "config/travelersbackpack-common.toml"
-hash = "65a32be5f4b870aa15d328987dc9cb75676832882c200c3811c34fd8e9bf0109"
-
-[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "03917b601037c7ab5345f7891fb141672d6acaa1558f77bb4678b484dfc4c235"
 metafile = true
@@ -9204,6 +9200,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/backpacked.pw.toml"
+hash = "41311b8439a35e4abed69db8fe90994b2667d3829e8fcdb856272c0c070cd2b2"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "9c2e49283d2f251717b890fdbf9b5f3e92ff64bec53dd00e099f969003833b16"
 metafile = true
@@ -9216,6 +9217,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
@@ -9289,6 +9295,11 @@ hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "53a11e3bf250e043bf388d6680e537e3026c32a8080d02ffeeb71bb1f9eb0d87"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "09d8e90563eccd14036316e3251c6bbee1408e6d5e0f405bb8f42e44ec2c85d7"
 metafile = true
@@ -9336,6 +9347,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "dbf6eb9a442b213564aabd9a7e16f3b23219087e07e4627cdee3df4f29bb69c5"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
 
 [[files]]
@@ -9626,11 +9642,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
-metafile = true
-
-[[files]]
-file = "mods/travelers-backpack.pw.toml"
-hash = "2452e171581530df5962d0d387d66cc7358dc8d7cbfa955bcd3b0841a46f4d5c"
 metafile = true
 
 [[files]]
