@@ -1,0 +1,20 @@
+{
+  "blacklisted_items": [
+    "//Items here will be unusable completely",
+	"kawaiidishes:sweet_berry_cookie",
+	"kawaiidishes:honey_cookie",
+	"kawaiidishes:chocolate_cookie",
+	"kawaiidishes:golden_cookie",
+	"kawaiidishes:cookie_of_unbinding"
+  ],
+  "only_disable_interactions": [
+    "//Items here will not be able to be right-clicked (Interact)",
+  ],
+  "only_disable_attacks": [
+    "//Items here will not be able to be used to attack",
+  ],
+  "only_disable_recipes": [
+    "//Items here will get their recipes disabled",
+    "//Keep in mind this already is applied to blacklisted items",
+  ]
+}
