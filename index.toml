@@ -9227,6 +9227,11 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
+file = "mods/block-history.pw.toml"
+hash = "76a1f00fc01bb1a8a8f0efeb343f005dac91b7c122c78397037d2369c8cb70c1"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
 metafile = true
@@ -9369,11 +9374,6 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
-metafile = true
-
-[[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "03007dbec06967fadd517024dc8b8b1e1b01696fd79965fa8403da6585d161fa"
 metafile = true
 
 [[files]]
@@ -9532,6 +9532,11 @@ hash = "a325cfd76a1cb9100e0013ff35a2e7ea73a0e0b2b109266fc0fad7b6fbd67d80"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "8870d86453dcfef75327875c3d1b8ec5bc9a4310c47147aa6a837de5491257f7"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
@@ -9674,6 +9679,16 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "8e7408c761e911aca700a0bc10a0e61f86a4b118f190a6f59e85f34b142c57cd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0c05da9019ad9d106253954dad1d1c7b969c0d2192f712ec039064515f1481ec"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "456748e1b1bdc9f4c411cf332a3e28e9ea57496b009af4aaec85a9615cfd4df6"
 metafile = true
 
 [[files]]
