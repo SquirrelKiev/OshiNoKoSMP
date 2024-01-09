@@ -9298,12 +9298,12 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium-plus.pw.toml"
-hash = "15cc53ebc7d6b7cc70e701a8d9dbe7a173e4753fa603f23979153500b36fe51e"
+hash = "966ba7ce62e702be3208b916b33467440ef0461ae36ca128c9d8a6a1151fdb5a"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
+hash = "8dc8a45e895275a0eb659a761849906492c15be08abc97c85af9337800994217"
 metafile = true
 
 [[files]]
@@ -9473,7 +9473,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "7e601ceb72539f0337c85d463fbcf70defdb1efafce5b6d45fa5e622f9b788d2"
+hash = "f492234f85af916bd709afec40e70dd74a7b72fee7d0b0fb08ee297f3e7be681"
 metafile = true
 
 [[files]]
@@ -9528,7 +9528,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
+hash = "a325cfd76a1cb9100e0013ff35a2e7ea73a0e0b2b109266fc0fad7b6fbd67d80"
 metafile = true
 
 [[files]]
@@ -9643,7 +9643,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "69c5e061e909cd434f23d2212ea6db6ab9d1cb7dbf3238948e1f871c3430f947"
+hash = "5c7420bcee21aec07f531708d0c319077d0f66476a197c7de0a978cccae87b52"
 metafile = true
 
 [[files]]
