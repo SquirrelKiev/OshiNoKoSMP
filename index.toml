@@ -21,6 +21,10 @@ file = "config/item_obliterator.json"
 hash = "8d30bbe2aebae1a28d03b05d39ed7e6c9acdc3e1e409aba497de1a954baa481a"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "7c69daacf484186a0e62523fa21bc060d8c64477e04ff92740c6a51108c7fc84"
+
+[[files]]
 file = "config/kawaii-dishes-common.toml"
 hash = "4cdfe967bb4c8ffc7b9d0b475736492f23975e7172308e40ed14259a4e6049e7"
 
@@ -9160,6 +9164,14 @@ hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
 metafile = true
 
 [[files]]
+file = "defaultconfigs/backpacked-server.toml"
+hash = "ac68b5a38453c0f047b8e46ecc25abe1f7bef273ad812361ccf07ea06e76dbde"
+
+[[files]]
+file = "defaultconfigs/ftbchunks-world.snbt"
+hash = "1bdc06f3beb308526d4ee950dcc814346d69b7538c45dd5715ae61a860f833ec"
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "03917b601037c7ab5345f7891fb141672d6acaa1558f77bb4678b484dfc4c235"
 metafile = true
@@ -9292,6 +9304,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5550ba005fda73184df586093d052378c337382f63b08c63bc987b0023192903"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "3b8dacbd1cd0e3d849b080473559fd26e4268e396075ad37d0fdf7031ee9dc97"
 metafile = true
 
 [[files]]
@@ -9622,6 +9639,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "019c0deacbb93409af392fa6bbf7f89737ad1d48cb9c22a0ed268e4d719f91ba"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "69c5e061e909cd434f23d2212ea6db6ab9d1cb7dbf3238948e1f871c3430f947"
 metafile = true
 
 [[files]]
