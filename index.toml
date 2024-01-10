@@ -25,10 +25,6 @@ file = "config/jei/jei-client.ini"
 hash = "7c69daacf484186a0e62523fa21bc060d8c64477e04ff92740c6a51108c7fc84"
 
 [[files]]
-file = "config/kawaii-dishes-common.toml"
-hash = "4cdfe967bb4c8ffc7b9d0b475736492f23975e7172308e40ed14259a4e6049e7"
-
-[[files]]
 file = "config/lootr-common.toml"
 hash = "574f1fb68673a0f27d5383fcab60d344a96a512a31aee0c13b55b23499f5b822"
 
@@ -1363,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc2discord.pw.toml"
-hash = "46d1a275c2208be86bdb025a891c0e73137eb0905f808ddd9e1402576ac9569d"
+hash = "b228d39e0673b85f3cea8ede2892681853201bb073a08433bfb92c34deef2fcc"
 metafile = true
 
 [[files]]
