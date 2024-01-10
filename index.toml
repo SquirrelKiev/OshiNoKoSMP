@@ -9197,6 +9197,11 @@ hash = "cb65618762547645cd50cbdebf7613fe72dbc1a16350cf3e3e80453970371ec2"
 metafile = true
 
 [[files]]
+file = "mods/antixray-forge.pw.toml"
+hash = "d43ab1ac02af13945f23525f0d7851921ae848f633c4f0031db6025061672777"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -9274,6 +9279,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "387e483d5ed7f5b8cf88288c2824b6159e8a123225222ff171898f1006d84ec7"
 metafile = true
 
 [[files]]
