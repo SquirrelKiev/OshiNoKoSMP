@@ -9293,7 +9293,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
+hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
 
 [[files]]
@@ -9527,6 +9527,11 @@ hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "71fb3404b65e75436949c03de533472c78e157951f6c29fd674735039ed9807d"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "a325cfd76a1cb9100e0013ff35a2e7ea73a0e0b2b109266fc0fad7b6fbd67d80"
 metafile = true
@@ -9663,7 +9668,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
