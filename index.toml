@@ -400,6 +400,11 @@ hash = "b36c61ea5e2062fd657e82c831c98883aca39ba60b29b63e78664047806fb22e"
 metafile = true
 
 [[files]]
+file = "mods/modlistobserver.pw.toml"
+hash = "2fba8690b8a7b9907eb69f0ab29f6a456972c643b393bdbe7f140db093f139e8"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
@@ -505,6 +510,11 @@ hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
 metafile = true
 
 [[files]]
+file = "mods/serverdataaccessor.pw.toml"
+hash = "039d896d431326dc416acd2a03ec8c1872b74c4764d9edca0609ae127f7a69f1"
+metafile = true
+
+[[files]]
 file = "mods/showcase-item.pw.toml"
 hash = "f17ebbc2e710b6f29c8d8a47eacbc6860141219a68fbcab5a807a40660b3c5e3"
 metafile = true
@@ -555,6 +565,11 @@ hash = "6bcfd5cccd39ee6cc37b16e5819a3c6033c6a4ef1a2fb21a7a3af77f59323168"
 metafile = true
 
 [[files]]
+file = "mods/tempban.pw.toml"
+hash = "fc7b9065faf02db012eb00b7de5723cea946f2fa48a005f368f4763bd5d46288"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "019c0deacbb93409af392fa6bbf7f89737ad1d48cb9c22a0ed268e4d719f91ba"
 metafile = true
@@ -592,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "8e7408c761e911aca700a0bc10a0e61f86a4b118f190a6f59e85f34b142c57cd"
+metafile = true
+
+[[files]]
+file = "mods/vanishmod.pw.toml"
+hash = "7ede648270aba1ad4610da2c58932a325692be781c8aa9d5f347ee0477172c9a"
 metafile = true
 
 [[files]]

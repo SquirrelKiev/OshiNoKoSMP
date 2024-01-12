@@ -1,0 +1,13 @@
+name = "ServerDataAccessor"
+filename = "ServerDataAccessor-1.20-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ff62665a2ca7d514f508e6462d2ec7ae7eab6bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4573703
+project-id = 623257

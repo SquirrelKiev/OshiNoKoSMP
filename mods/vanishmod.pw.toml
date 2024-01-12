@@ -1,0 +1,13 @@
+name = "Vanishmod"
+filename = "Vanishmod-1.20.1-1.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9cfb3f1e35adb7db058d7ef6a5071dacc0a5ba04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4802059
+project-id = 423535
