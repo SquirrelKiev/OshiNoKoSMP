@@ -1,6 +1,6 @@
 name = "Vanishmod"
 filename = "Vanishmod-1.20.1-1.1.14.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

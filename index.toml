@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/modlistobserver.pw.toml"
-hash = "2fba8690b8a7b9907eb69f0ab29f6a456972c643b393bdbe7f140db093f139e8"
+hash = "6fd929c028a2dd72e4e2c274624a35e638ba209c405c41665d0e7debaba23579"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverdataaccessor.pw.toml"
-hash = "039d896d431326dc416acd2a03ec8c1872b74c4764d9edca0609ae127f7a69f1"
+hash = "8f4938562ddc0c7294b624c9ee71868509429831140611291926743f6b860a7d"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/tempban.pw.toml"
-hash = "fc7b9065faf02db012eb00b7de5723cea946f2fa48a005f368f4763bd5d46288"
+hash = "a52fdc5212b7ff3f089eefcf6f1eb9696b0b50fcaf0fa3cb81b05968fb2694e7"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanishmod.pw.toml"
-hash = "7ede648270aba1ad4610da2c58932a325692be781c8aa9d5f347ee0477172c9a"
+hash = "5826aa6bb7f403be3271407dc69ba7db849c2da005c8bd843efa7d59ea63d579"
 metafile = true
 
 [[files]]
