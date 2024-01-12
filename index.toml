@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium-plus.pw.toml"
-hash = "966ba7ce62e702be3208b916b33467440ef0461ae36ca128c9d8a6a1151fdb5a"
+hash = "e206bb9c959ee79e5e3df2cf516e2a3808296aff6f90c6ff9daaf8a7f6b616a6"
 metafile = true
 
 [[files]]
@@ -390,13 +390,13 @@ hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
 metafile = true
 
 [[files]]
-file = "mods/mc2discord.pw.toml"
-hash = "b228d39e0673b85f3cea8ede2892681853201bb073a08433bfb92c34deef2fcc"
+file = "mods/mc2discordfork.pw.toml"
+hash = "b1c06e4b0f0a4cdb5ceda61ceb01973414aea566b0f73fff6f942e9d0268396d"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2a8e4c7488ddd420fc432717b9f4e76cb4cfbf8f02f351c6cd8f0390dde778ad"
+hash = "b36c61ea5e2062fd657e82c831c98883aca39ba60b29b63e78664047806fb22e"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "fe0772c7dc7250bec77954134c13fa04aae48e18866097686324bc2b8063b4f6"
+hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
 metafile = true
 
 [[files]]
