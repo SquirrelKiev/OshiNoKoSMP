@@ -391,12 +391,12 @@ metafile = true
 
 [[files]]
 file = "mods/mc2discordfork.pw.toml"
-hash = "6d68d7177231031f50fdab889c417d430941d400dad97462d4ef61e1e4330724"
+hash = "7292053b92cea96c9f3634e8d4fe5b89875418d9ddfcebd0384b7612004cb35b"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b36c61ea5e2062fd657e82c831c98883aca39ba60b29b63e78664047806fb22e"
+hash = "10a80ae383e564d288cd8cf376d276a9eb091761eb987e6540312378d8fb9c42"
 metafile = true
 
 [[files]]
