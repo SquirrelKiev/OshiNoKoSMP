@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/SquirrelKiev/Mc2Discord/releases/download/build-2/mc2discord-forge-1.20.1-0.0.0-dev.jar"
 hash-format = "sha256"
-hash = "2fc733befe3f48cf39be8bbd86a0ef6b392babfee0c068768569a6ef60e4b3d1"
+hash = "f014797157ea297baee62e04a56e1d241d437e9566c038bdecc29916d27aa6e9"
