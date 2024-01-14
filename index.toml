@@ -5,6 +5,14 @@ file = "config/advancementplaques-common.toml"
 hash = "6e67084769c1b382f961fb40b4430a8572f25bc599f4164e52d15a800b93daf1"
 
 [[files]]
+file = "config/artifacts/client.json5"
+hash = "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56"
+
+[[files]]
+file = "config/artifacts/common.json5"
+hash = "2b8d4e5d28d4be38518184eee312995807230a00ad87a299f806cbb6e171d43d"
+
+[[files]]
 file = "config/defaultsettings/Default/keys.txt"
 hash = "9b9216e521e38d60097639ae85bd349a98b962c742ebee80a4acb9d70619da6d"
 
@@ -25,12 +33,16 @@ file = "config/jei/jei-client.ini"
 hash = "7c69daacf484186a0e62523fa21bc060d8c64477e04ff92740c6a51108c7fc84"
 
 [[files]]
+file = "config/kawaii-dishes-common.toml"
+hash = "bc509f9170d45f5e9e6d3fd3f053ad74aaf45881db23893b7e7bd586e204fab7"
+
+[[files]]
 file = "config/lootr-common.toml"
 hash = "574f1fb68673a0f27d5383fcab60d344a96a512a31aee0c13b55b23499f5b822"
 
 [[files]]
-file = "config/openloader/data/disable-advancements/pack.mcmeta"
-hash = "4c4cf65a5c19c9546e4814f92a08005dd5f1c0407933b52d5cc1590fb09aa327"
+file = "config/openloader/data/disable-kawaiidishes-stuff/pack.mcmeta"
+hash = "af85c052521e3b88918d47f62518f80928a47e79cfda1ead7d31909d58aa3c66"
 
 [[files]]
 file = "config/openloader/data/onkmoji.zip"
@@ -100,6 +112,11 @@ hash = "52614d4074179a2819bbb70aec41cf3dd181e6d4bf9763e181fb2fd2a539e189"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c19b816cfdb18cfcdee50e7ce87a1e83971962d39b77d3057ae4420a24c1b52b"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
@@ -132,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "d4512023e6eb03c5045365468de16cebe1aea7f14f6cb94902d72848f69c79ce"
 metafile = true
 
 [[files]]
@@ -561,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushigocrafting.pw.toml"
-hash = "6bcfd5cccd39ee6cc37b16e5819a3c6033c6a4ef1a2fb21a7a3af77f59323168"
+hash = "3ea1d9e75cb69ba174e95851515c67837c6f6b3c5039f06e9ec9aa7a9434dd53"
 metafile = true
 
 [[files]]
