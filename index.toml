@@ -447,11 +447,6 @@ hash = "65b1606de510bf73e3c35767783c81b25eaf8f6a5520f26ea206b3644e850a52"
 metafile = true
 
 [[files]]
-file = "mods/neruina.pw.toml"
-hash = "7dc3c3b0b99843a19a55ec0333554b7d406de1380b5263864714c88c157b49c9"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
 metafile = true
@@ -583,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/sushigocrafting.pw.toml"
-hash = "c7685618cbcd268fffcc3cbd27ab12bfa8a954ab62880bcf4e10ad3ea9bd8add"
+hash = "0842e047d2ffba9dc801649217a1409fa605767047b0d94aee6907c48c068f09"
 metafile = true
 
 [[files]]
