@@ -88,10 +88,6 @@ file = "defaultconfigs/backpacked-server.toml"
 hash = "ac68b5a38453c0f047b8e46ecc25abe1f7bef273ad812361ccf07ea06e76dbde"
 
 [[files]]
-file = "defaultconfigs/ftbchunks-world.snbt"
-hash = "1bdc06f3beb308526d4ee950dcc814346d69b7538c45dd5715ae61a860f833ec"
-
-[[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "03917b601037c7ab5345f7891fb141672d6acaa1558f77bb4678b484dfc4c235"
 metafile = true
