@@ -1,7 +1,7 @@
 
 ["Common Configs for Kawaii Dishes"]
 	#Define if the Kawaii Effect can send messages to local players
-	canSendMessage = true
+	canSendMessage = false
 	#Set the chance to message the player
 	#Range: 0.0 ~ 1.0
 	chanceToMessage = 0.0
@@ -11,7 +11,7 @@
 	shouldSpawn = true
 	#Sets the chance for mobs to spawn with maid dresses
 	#Range: 0.0 ~ 1.0
-	chanceToSpawn = 0.02
+	chanceToSpawn = 0.005
 	#Sets the chance for mobs that spawn with maid dresses to drop them
 	#Range: 0.0 ~ 1.0
 	chanceToDrop = 0.25
