@@ -76,6 +76,22 @@ hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
 metafile = true
 
 [[files]]
+file = "config/yosby/config/embeddium++.toml"
+hash = "57103bd27972851b08ea6f28e1e9d981b919d8705ec9da034cf6653027d3629a"
+
+[[files]]
+file = "config/yosby/config/embeddium++mixin.toml"
+hash = "284ba524a0ab514c1e3180cf3ed3fdaede8d6c36e46c44e2addbb5dfd92c81d6"
+
+[[files]]
+file = "config/yosby/config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/yosby/config/embeddium-options.json"
+hash = "a1e7d43765a44052156c913fcc99c8746ee422de8b8f31665dd4225a84f10fc4"
+
+[[files]]
 file = "config/yosby/config/xaerominimap.txt"
 hash = "854c923529d23cdc737badd4eb1beeb2038aeaa41a8db375739ce9b0954ed626"
 
