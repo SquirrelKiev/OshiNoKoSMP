@@ -196,6 +196,11 @@ hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "f9893ba1ba92c109418d7356405805c5a94bdbfaad2d76cb0901bbf4f2b7a6d6"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "582df14a33015fe8060af8d1d759d10cfa0dbfa93927f007b611032ba574c950"
+hash = "e297fdb7786974314dffa4d0ed28736d1746543f6ba48377b630d282fa797caf"
 metafile = true
 
 [[files]]
@@ -653,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "a7375269377ced7dc1b437ed7b1d9330aa8e5ca569b77193dd75f1cfab73aaf1"
 metafile = true
 
 [[files]]
