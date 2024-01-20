@@ -13,6 +13,22 @@ file = "config/artifacts/common.json5"
 hash = "2b8d4e5d28d4be38518184eee312995807230a00ad87a299f806cbb6e171d43d"
 
 [[files]]
+file = "config/defaultsettings/Default/config/xaerominimap.txt"
+hash = "854c923529d23cdc737badd4eb1beeb2038aeaa41a8db375739ce9b0954ed626"
+
+[[files]]
+file = "config/defaultsettings/Default/keys.txt"
+hash = "9b9216e521e38d60097639ae85bd349a98b962c742ebee80a4acb9d70619da6d"
+
+[[files]]
+file = "config/defaultsettings/Default/options.txt"
+hash = "daeedc1b61f69d7ce5be11afa1dae2a6f2ed3f45e5d5eb008dbe79dee6f4db57"
+
+[[files]]
+file = "config/defaultsettings/Default/servers.dat"
+hash = "6e057655c9c749a618059845928e24d0823b30a4df83d39b6ae590bda2dd38ef"
+
+[[files]]
 file = "config/item_obliterator.json"
 hash = "8d30bbe2aebae1a28d03b05d39ed7e6c9acdc3e1e409aba497de1a954baa481a"
 
@@ -74,22 +90,6 @@ metafile = true
 file = "config/openloader/data/repurposed-structures-farmers-delight-datapack.pw.toml"
 hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
 metafile = true
-
-[[files]]
-file = "config/yosby/config/xaerominimap.txt"
-hash = "854c923529d23cdc737badd4eb1beeb2038aeaa41a8db375739ce9b0954ed626"
-
-[[files]]
-file = "config/yosby/keys.txt"
-hash = "9b9216e521e38d60097639ae85bd349a98b962c742ebee80a4acb9d70619da6d"
-
-[[files]]
-file = "config/yosby/options.txt"
-hash = "daeedc1b61f69d7ce5be11afa1dae2a6f2ed3f45e5d5eb008dbe79dee6f4db57"
-
-[[files]]
-file = "config/yosby/servers.dat"
-hash = "6e057655c9c749a618059845928e24d0823b30a4df83d39b6ae590bda2dd38ef"
 
 [[files]]
 file = "defaultconfigs/backpacked-server.toml"
@@ -235,6 +235,11 @@ hash = "f2419ee1583f6e485673b0a8aa0da7ff3baf0c2eb0ab39d99d25ede1acf9a43c"
 metafile = true
 
 [[files]]
+file = "mods/defaultsettings.pw.toml"
+hash = "5a105e80bc36fc5b8560c9b27572202ec821eab8d27d5bd71d2e661abbd53542"
+metafile = true
+
+[[files]]
 file = "mods/delightful.pw.toml"
 hash = "f79e7b3f1653a71b6f256a41bc07e43401a0fa0c2bd865676e1812ae6ecad13a"
 metafile = true
@@ -340,6 +345,11 @@ hash = "0d43726a6fe83f1064237efbe1362bb15110a5e5dffc2d953b43e1893cb00080"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "e196c44c69785ae15eb47a10207fee12362d34e63d94f663a00aa58e26313c37"
 metafile = true
@@ -407,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "4b798f5f1c59f9ff4eb657f6ee899c2b6210d05e5812abf75ef33a0e98ed5475"
+metafile = true
+
+[[files]]
+file = "mods/jcplugin.pw.toml"
+hash = "5c9deb013e842d42103c2b9d723a91e890648a400831a25a554f2d65d83b778f"
 metafile = true
 
 [[files]]
@@ -542,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/plushie-mod.pw.toml"
 hash = "a73ead836a7d826e4d12436acba18c353983b7625e116098153a5f3f3cc979c9"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "fddb460180a419e8e9fa292c465c7d41f6826e4c25e4be7a016d580390bf225c"
 metafile = true
 
 [[files]]
@@ -717,11 +737,6 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
-metafile = true
-
-[[files]]
-file = "mods/yosby.pw.toml"
-hash = "ea15ef438a1a9836b56165ecde006913119eeb17a8130225f730addf4cf99509"
 metafile = true
 
 [[files]]

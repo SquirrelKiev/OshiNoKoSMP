@@ -1,0 +1,13 @@
+{
+  "version": "4.0.5",
+  "prevVersion": "none",
+  "generatedBy": "c2befa9e-02fb-4e5e-a94c-190ac1463ef4",
+  "hashes": {
+    "Default/servers.dat": "98AC6E66960E98491F25D6363396C56C",
+    "Default/config\\xaerominimap.txt": "CB5377B2F0A63144A8898A377B83FC25",
+    "Default/keys.txt": "DD1D0F73A9E3DB9A439CF2B2EAD80A01",
+    "Default/options.txt": "A15085F94E5EAB1FCEF28A3B33F6B02C"
+  },
+  "mainProfile": "Default",
+  "initially_created": "20.01.2024 05:48:31"
+}
