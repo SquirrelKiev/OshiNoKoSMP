@@ -13,16 +13,20 @@ file = "config/artifacts/common.json5"
 hash = "2b8d4e5d28d4be38518184eee312995807230a00ad87a299f806cbb6e171d43d"
 
 [[files]]
+file = "config/defaultsettings.json"
+hash = "e118d4cc9b671c83df425b823ad69028d2730a1acae324c5d401c9ffecd92250"
+
+[[files]]
 file = "config/defaultsettings/Default/config/xaerominimap.txt"
 hash = "854c923529d23cdc737badd4eb1beeb2038aeaa41a8db375739ce9b0954ed626"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
-hash = "9b9216e521e38d60097639ae85bd349a98b962c742ebee80a4acb9d70619da6d"
+hash = "2b1efc6b98107ab544e483dfea5934517725fd9614335d9ea6bb27d905939d34"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "daeedc1b61f69d7ce5be11afa1dae2a6f2ed3f45e5d5eb008dbe79dee6f4db57"
+hash = "ac8de7b69284a1659b6aacc8020fa4b980a5a23d9746847a482c177d3c59e1d8"
 
 [[files]]
 file = "config/defaultsettings/Default/servers.dat"
