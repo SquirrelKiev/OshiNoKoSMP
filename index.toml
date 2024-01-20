@@ -37,10 +37,6 @@ file = "config/openloader/data/disable-kawaiidishes-stuff/pack.mcmeta"
 hash = "af85c052521e3b88918d47f62518f80928a47e79cfda1ead7d31909d58aa3c66"
 
 [[files]]
-file = "config/openloader/data/onkmoji.zip"
-hash = "43d585dfe12905d681287eae3181cd97574b2261936b1a6fff4fea30416a76b3"
-
-[[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
 hash = "ffa737456d964ec5ef52e04b03da36fd3406d9c171d4d6bdef7cfb53ebf2c767"
 metafile = true
