@@ -5,24 +5,12 @@ file = "config/advancementplaques-common.toml"
 hash = "6e67084769c1b382f961fb40b4430a8572f25bc599f4164e52d15a800b93daf1"
 
 [[files]]
-file = "config/artifacts/client.json5"
-hash = "dfae4a12bf924a5e12380032ff257ec535c6b003fef539a3893adb05c0a69c56"
+file = "config/antiportals-common.toml"
+hash = "7bd6de03b71fe2f76345b832d12e67fa89fb401f7c4f83f776ecd8e13bfa3d0d"
 
 [[files]]
 file = "config/artifacts/common.json5"
 hash = "2b8d4e5d28d4be38518184eee312995807230a00ad87a299f806cbb6e171d43d"
-
-[[files]]
-file = "config/defaultsettings/Default/keys.txt"
-hash = "9b9216e521e38d60097639ae85bd349a98b962c742ebee80a4acb9d70619da6d"
-
-[[files]]
-file = "config/defaultsettings/Default/options.txt"
-hash = "689b7cfb1768c4db281883979e011b2c142d1c222c8ac9aada6df65c4121d5db"
-
-[[files]]
-file = "config/defaultsettings/Default/servers.dat"
-hash = "c7af1e40ad65baefe64ffdeff53f92bfe2472bb03635a1027253b39a55d29626"
 
 [[files]]
 file = "config/item_obliterator.json"
@@ -39,6 +27,10 @@ hash = "35dd44d7ad1f7f30cc159da2e36631b28e1ed357e096b5ebaeba181c92ea2e27"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "574f1fb68673a0f27d5383fcab60d344a96a512a31aee0c13b55b23499f5b822"
+
+[[files]]
+file = "config/openloader/data/disable-kawaiidishes-stuff/data/kawaiidishes/worldgen/placed_feature/coffee_plant.json"
+hash = "33d715bae7f51d202fbada09750c28a0397375d09b0fffa8ba19d854f7e29924"
 
 [[files]]
 file = "config/openloader/data/disable-kawaiidishes-stuff/pack.mcmeta"
@@ -84,12 +76,32 @@ hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
 metafile = true
 
 [[files]]
+file = "config/yosby/config/xaerominimap.txt"
+hash = "854c923529d23cdc737badd4eb1beeb2038aeaa41a8db375739ce9b0954ed626"
+
+[[files]]
+file = "config/yosby/keys.txt"
+hash = "9b9216e521e38d60097639ae85bd349a98b962c742ebee80a4acb9d70619da6d"
+
+[[files]]
+file = "config/yosby/options.txt"
+hash = "daeedc1b61f69d7ce5be11afa1dae2a6f2ed3f45e5d5eb008dbe79dee6f4db57"
+
+[[files]]
+file = "config/yosby/servers.dat"
+hash = "6e057655c9c749a618059845928e24d0823b30a4df83d39b6ae590bda2dd38ef"
+
+[[files]]
 file = "defaultconfigs/backpacked-server.toml"
 hash = "ac68b5a38453c0f047b8e46ecc25abe1f7bef273ad812361ccf07ea06e76dbde"
 
 [[files]]
+file = "kubejs/startup_scripts/food.js"
+hash = "bdd22e8e51db8d93b0289d07edd3c8431d3c3f14c81988c8ac7331158411824e"
+
+[[files]]
 file = "mods/advancement-frames.pw.toml"
-hash = "03917b601037c7ab5345f7891fb141672d6acaa1558f77bb4678b484dfc4c235"
+hash = "5aaf45672f2f7911d8ee9e96ff04c431e64e3a9b3e44a8e16bee3911ce585eb8"
 metafile = true
 
 [[files]]
@@ -110,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "cb65618762547645cd50cbdebf7613fe72dbc1a16350cf3e3e80453970371ec2"
+metafile = true
+
+[[files]]
+file = "mods/antiportals.pw.toml"
+hash = "bebe66c6e376da9b2974d2bd3043ccf58ad483cfca1935235f5dcc196af57781"
 metafile = true
 
 [[files]]
@@ -218,11 +235,6 @@ hash = "f2419ee1583f6e485673b0a8aa0da7ff3baf0c2eb0ab39d99d25ede1acf9a43c"
 metafile = true
 
 [[files]]
-file = "mods/defaultsettings.pw.toml"
-hash = "5a105e80bc36fc5b8560c9b27572202ec821eab8d27d5bd71d2e661abbd53542"
-metafile = true
-
-[[files]]
 file = "mods/delightful.pw.toml"
 hash = "f79e7b3f1653a71b6f256a41bc07e43401a0fa0c2bd865676e1812ae6ecad13a"
 metafile = true
@@ -279,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b6b025b64fb5ed5d33a2408fa62511bef25b5d97d40a6837480bed60c7b4716e"
+hash = "ebc9714489a1f7b8959f7d6ae287868425a2741a7c4d4a1f37a662cea42cae6f"
 metafile = true
 
 [[files]]
@@ -320,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "dbf6eb9a442b213564aabd9a7e16f3b23219087e07e4627cdee3df4f29bb69c5"
 metafile = true
 
 [[files]]
@@ -403,11 +410,6 @@ hash = "4b798f5f1c59f9ff4eb657f6ee899c2b6210d05e5812abf75ef33a0e98ed5475"
 metafile = true
 
 [[files]]
-file = "mods/jcplugin.pw.toml"
-hash = "5c9deb013e842d42103c2b9d723a91e890648a400831a25a554f2d65d83b778f"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
@@ -429,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "5ad11c7b6b20623354a612fe52d6bac546441363b16490404a8a373d2ff47f22"
+hash = "f425c80aaf60a9e503dfb132b3d334a35c2f82518b96b2a15d5d87e616ff9156"
 metafile = true
 
 [[files]]
@@ -489,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/necronomicon.pw.toml"
-hash = "65b1606de510bf73e3c35767783c81b25eaf8f6a5520f26ea206b3644e850a52"
+hash = "a9265238a1df9edb23afb485033b719409588acd9d6c613e1f98eea051dcc70c"
 metafile = true
 
 [[files]]
@@ -584,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
+hash = "d6eb84bc0a9c2b69683253b26ab8caaf559f34427e6ecfc48e53fe2042d03e5e"
 metafile = true
 
 [[files]]
@@ -639,12 +641,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "619a019ab398c26a851e7715db6dc6f7e897d54e852686a321769b20df7b7290"
+hash = "7bed0d31dce18cd5aebc3bfc40531275f1ea622c763dd9438aa063a4fbed993a"
 metafile = true
 
 [[files]]
 file = "mods/sushigocrafting.pw.toml"
-hash = "0842e047d2ffba9dc801649217a1409fa605767047b0d94aee6907c48c068f09"
+hash = "20bd07e0c7519f8d7a862afbb0f44f71ab8420231796e6dea893af2c1dff2199"
 metafile = true
 
 [[files]]
@@ -718,6 +720,11 @@ hash = "7dbe376c64d52ddc3e52ca6ce6b07d8c5d76bf9ef68d58267bb9e9c6d8fb2c09"
 metafile = true
 
 [[files]]
+file = "mods/yosby.pw.toml"
+hash = "ea15ef438a1a9836b56165ecde006913119eeb17a8130225f730addf4cf99509"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
 metafile = true
@@ -761,3 +768,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "fa202c052bee239aa8c074e13da7c843cda83a2b768769b3d6ae0bc47b11de8e"
 metafile = true
+
+[[files]]
+file = "observable_announce"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
