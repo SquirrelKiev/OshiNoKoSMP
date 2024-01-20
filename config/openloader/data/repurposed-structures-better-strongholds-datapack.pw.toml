@@ -1,6 +1,6 @@
 name = "Repurposed Structures - Better Strongholds Compat Datapack"
 filename = "Repurposed_Structures-Better_Strongholds_v5.zip"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

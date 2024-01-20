@@ -42,37 +42,37 @@ hash = "43d585dfe12905d681287eae3181cd97574b2261936b1a6fff4fea30416a76b3"
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-desert-temples-compat.pw.toml"
-hash = "833cf05ac3834595fb0d7ef3d3fe019736689c03c1ec10943218dd7c3d8278c2"
+hash = "ffa737456d964ec5ef52e04b03da36fd3406d9c171d4d6bdef7cfb53ebf2c767"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "ab4c0b434475cfd26d6b0627c6fa3c7e10f58a5d6386549f8202de0a61822a17"
+hash = "70e7e6fbe3bf0c501f59622a70373e235f416e7eca5e21e89bb7ed6f8f8291a4"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-jungle-temples-compat.pw.toml"
-hash = "a19fb8ab7cdf872d724c338fb93fcf1d654e5f1829aa14cdaf117feea81c3972"
+hash = "03be62116224bd5b46c9b9bf23349af5366d7e727bdf4d35ccdb3bc9da5f271a"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-ocean-monuments.pw.toml"
-hash = "86984a244dfa791f8eb8fb9c1ab5394d7429232be05df36e04537548d3bffa01"
+hash = "1077ee0f58c84970d4a4b706c2a6cbd9f8aa724e75ba3ed7e173f9345d5b1de9"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-strongholds-datapack.pw.toml"
-hash = "476b90ad5ac3f768e75a9eef927a73571d9518d7fc7fe55f021f99770ab966c3"
+hash = "9137a7a6e469608cd2b8cf0c2b7731be897e65555c6fd4438b7ddf826823bb1a"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-witch-huts-compat.pw.toml"
-hash = "0bdd91615489da6e102c9da1134bf9396ccf2f73039d14ef18470a312d5a475f"
+hash = "d0f415917bb845d73fea29cb2ec3e421094605ab7fb0e2778954c044951a38e2"
 metafile = true
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-farmers-delight-datapack.pw.toml"
-hash = "68efc3e894d7bad6981f7aff2e6e06723ea0c49bf0a8f12789a4cdb7c1d7bb3d"
+hash = "0447ad1e7c66f1ef01a5c703edf12c8a3b7399f6b527fb6886c2a54907754401"
 metafile = true
 
 [[files]]
