@@ -1,12 +1,12 @@
-name = "Oshi No Ko SMP"
-author = "Oshi No Ko Discord"
-version = "1.0.0"
+name = "ONKSMP"
+author = "Oshi No Ko Discord Staff"
+version = "1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e4d5850166660dda271a3707573ddd74a176a90b4184be042b22ae0a1c693728"
+hash = "4e8c09c6544b45f1d384676b93118fee0d1fa360d889319d69690eeb4851c71d"
 
 [versions]
 forge = "47.2.20"

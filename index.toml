@@ -13,6 +13,10 @@ file = "config/artifacts/common.json5"
 hash = "2b8d4e5d28d4be38518184eee312995807230a00ad87a299f806cbb6e171d43d"
 
 [[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "b97f4ec218fb8407c6c549eb4958b05ac4b33487b4944fc5d5a862fac3cbdd76"
+
+[[files]]
 file = "config/item_obliterator.json"
 hash = "8d30bbe2aebae1a28d03b05d39ed7e6c9acdc3e1e409aba497de1a954baa481a"
 
