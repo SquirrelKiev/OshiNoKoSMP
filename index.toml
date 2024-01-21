@@ -117,7 +117,7 @@ hash = "c1bbca7ec73c55f48c19111a36153cd0c3f189c8f5d158b4c6fc9424e8666474"
 
 [[files]]
 file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "1c8f183030f25478ec07a95a6f376e2c1c7f93cadd7e8aa2fe8aed3fb71a491c"
+hash = "7d9056cd9a1a850e8b04a3493981efad8528e6eaf52600af9dae7685f7ea60bd"
 
 [[files]]
 file = "kubejs/startup_scripts/food.js"
