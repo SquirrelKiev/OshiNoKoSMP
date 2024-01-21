@@ -112,6 +112,14 @@ file = "defaultconfigs/backpacked-server.toml"
 hash = "ac68b5a38453c0f047b8e46ecc25abe1f7bef273ad812361ccf07ea06e76dbde"
 
 [[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "c1bbca7ec73c55f48c19111a36153cd0c3f189c8f5d158b4c6fc9424e8666474"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "1c8f183030f25478ec07a95a6f376e2c1c7f93cadd7e8aa2fe8aed3fb71a491c"
+
+[[files]]
 file = "kubejs/startup_scripts/food.js"
 hash = "bdd22e8e51db8d93b0289d07edd3c8431d3c3f14c81988c8ac7331158411824e"
 
@@ -223,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "c1829724fc8399b466a60a2aee6a72251f55e1f7443c776094a01b952f3f8561"
 metafile = true
 
 [[files]]
@@ -398,11 +411,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "4f2d8288becd1ebbbb494c487daa9682db64dbc82be04ea0369126e37510c17b"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "ca3df6df3210338bbd18683eb2064ccd7cfa4e19e0c64f8ec0d93a09e888e4e9"
 metafile = true
 
 [[files]]
@@ -808,3 +816,11 @@ metafile = true
 [[files]]
 file = "observable_announce"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "onkicon-small.png"
+hash = "02239968d6bc0217de45e5d0a6a7eea1e4769c97a9a7494e00e12fad3e36b2ae"
+
+[[files]]
+file = "onkicon.png"
+hash = "ca2de493f073d1acb216f65fca37e97d3baaff8d2a4689316eb85ce95913d2e8"
