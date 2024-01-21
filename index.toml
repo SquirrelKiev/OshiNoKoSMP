@@ -816,11 +816,3 @@ metafile = true
 [[files]]
 file = "observable_announce"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "onkicon-small.png"
-hash = "02239968d6bc0217de45e5d0a6a7eea1e4769c97a9a7494e00e12fad3e36b2ae"
-
-[[files]]
-file = "onkicon.png"
-hash = "ca2de493f073d1acb216f65fca37e97d3baaff8d2a4689316eb85ce95913d2e8"
