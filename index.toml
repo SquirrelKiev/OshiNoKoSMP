@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "f425c80aaf60a9e503dfb132b3d334a35c2f82518b96b2a15d5d87e616ff9156"
+hash = "c23e89d231e9d202ab6d07f1c52b6ef4d5beeb8ef69814c25b3dca00aa1adcf2"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9e52f3e37e02a5e9fa70325d19f5bcacde8540f224ffa35f7e87ddcfafbea4af"
+hash = "447d425b6e2615219b2d42ebe8798e4e74d52c07c409067fe089a6da978a6134"
 metafile = true
 
 [[files]]
@@ -754,12 +754,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0c05da9019ad9d106253954dad1d1c7b969c0d2192f712ec039064515f1481ec"
+hash = "3e5deb38abf19119c4d067aeb0785ef9839d978629bde2ef9ddddd26b15cf8bc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "456748e1b1bdc9f4c411cf332a3e28e9ea57496b009af4aaec85a9615cfd4df6"
+hash = "2e8f964883691263f8b3044281474c90f1b0224f94dff8ecc266f49bf457514a"
 metafile = true
 
 [[files]]
