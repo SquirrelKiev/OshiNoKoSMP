@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "86ade7c583ee7ef607c521cf1734ed245cc83751a5874cd16d782fbc158f49a3"
+hash = "e4134ee1e90170676c947abb9e1b1bcd8d8343f9893842cb5133db331a63b226"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "23e4181ae18e4f8d3d4c8dd6d9fd6d27882af6fccbac4c3890871c823e76ba55"
+hash = "b63ff441f6520dea01dca7d74c983447c002352594c7587c075b8c7a552f6bd8"
 metafile = true
 
 [[files]]
