@@ -5,6 +5,14 @@ file = "config/advancementplaques-common.toml"
 hash = "6e67084769c1b382f961fb40b4430a8572f25bc599f4164e52d15a800b93daf1"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "6e7b3488d14ee046070ef18aa5080f44ebf195c8d426ede99c5c2c461f857585"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "ffd0f22a5fa674c5e711f1ba20e13a25203bb5139ecd5bb93ff2bcf6ad3dfb3f"
+
+[[files]]
 file = "config/antiportals-common.toml"
 hash = "7bd6de03b71fe2f76345b832d12e67fa89fb401f7c4f83f776ecd8e13bfa3d0d"
 
@@ -76,6 +84,10 @@ hash = "0447ad1e7c66f1ef01a5c703edf12c8a3b7399f6b527fb6886c2a54907754401"
 metafile = true
 
 [[files]]
+file = "config/quickstack-client.toml"
+hash = "c7059022bb443adfd81fbebfd7e70e26294750f04cfb4dc2d2b955596d3b6178"
+
+[[files]]
 file = "config/yosby/config/embeddium++.toml"
 hash = "57103bd27972851b08ea6f28e1e9d981b919d8705ec9da034cf6653027d3629a"
 
@@ -129,12 +141,17 @@ hash = "bdd22e8e51db8d93b0289d07edd3c8431d3c3f14c81988c8ac7331158411824e"
 
 [[files]]
 file = "mods/advancement-frames.pw.toml"
-hash = "5aaf45672f2f7911d8ee9e96ff04c431e64e3a9b3e44a8e16bee3911ce585eb8"
+hash = "5d67889c90cf8cc1db309e93938b324827d70a4817ecb966649bc191fc959d25"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "4867921530f3d20012bd33a737c21d2d34d2c8b7659e350376884606d30a984a"
 metafile = true
 
 [[files]]
@@ -208,6 +225,11 @@ hash = "fcbd8cf6af2362f0cf604439c36134dceb65794743e6ad54d0efc9f5f8a8cf92"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "3f8431a6051fd48b0ab6a2080de605cc8c8cc2a3041800b04c80d32b9ca57547"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "f9893ba1ba92c109418d7356405805c5a94bdbfaad2d76cb0901bbf4f2b7a6d6"
 metafile = true
@@ -220,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "afe44b9aeb53fc7044c9f5e88ae66ab290998c2b627f68e6f85b0f9b6c8f870a"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "17f62ed29b5074678afe16d49dbed90c3ec849ca82bed1bab785d83e63064a28"
 metafile = true
 
 [[files]]
@@ -264,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e297fdb7786974314dffa4d0ed28736d1746543f6ba48377b630d282fa797caf"
+hash = "e7ad61dcf53f29d2383c9a8b310800f1385babe705936da8e607698afb9f1a81"
 metafile = true
 
 [[files]]
@@ -288,6 +315,11 @@ hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
 
 [[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
 metafile = true
@@ -303,6 +335,11 @@ hash = "6e00b7d2b9e48e4286f7313f848b2520ebb26315672bfa4a27bef23d02db2ca8"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "bf1265c6d4dbdd581c9c953aa173114a2e76c10bf043fcbb5af11682c32377e2"
 metafile = true
@@ -314,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7f0b8a8bf86c0f9d80a6b2ac25f0a7a778251e652414c4822c2c628b904dfab8"
+hash = "e51dd77e77bc5e8291707f4691636639afbef30b640f8a46c4c1f50e6f35c7a7"
 metafile = true
 
 [[files]]
@@ -329,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7cccca378aa68de604d7ea4ce58d1a9af3503d83f12dfd13ce38ee039cc9de7f"
+hash = "d5733ddd613b3a360a8efc03593bca2cf04e58eb5cb26fe7bfcc914dfe075c6b"
 metafile = true
 
 [[files]]
@@ -568,6 +605,11 @@ hash = "8870d86453dcfef75327875c3d1b8ec5bc9a4310c47147aa6a837de5491257f7"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "447d3edbe6b85c54c601c64709cf7223af19142d0a47c2a2032194baf10c61f2"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
@@ -603,6 +645,16 @@ hash = "447d425b6e2615219b2d42ebe8798e4e74d52c07c409067fe089a6da978a6134"
 metafile = true
 
 [[files]]
+file = "mods/quickstack.pw.toml"
+hash = "c3a2bb0e0048cb9993fd293d6a5690b1a5b0f95f7023c01fb85a6edf5e568c00"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "a8195e39831da3b5532265589c9e9b5011208bdfa1a8c0e298910463505c3bfa"
 metafile = true
@@ -614,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "54980224a747a23832727baac223d407fd22f1a42d7fd50345429b3e13ef5252"
+hash = "bff9cc0cbaa4124fd517514353e4fd2bb00942197bc637ae91fd8692f73d0cae"
 metafile = true
 
 [[files]]
@@ -629,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1fddefa08fb21e2262210de0c36c7f9b19138c25c03dc282f511290a9ba9ce59"
+hash = "b93996ea65ca3aba8832fac337d0645befe511c03342f533cc703f82e92aa58b"
 metafile = true
 
 [[files]]
@@ -649,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "33204bc4bd0537b0f17b693b4b364335d8d254f1f83fcec2834744409a845c53"
+hash = "ad4634565c231aa0b1ad7456040e3e5c6e9a3ea713d61f7ff56eb9caa2936f01"
 metafile = true
 
 [[files]]
@@ -689,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b2acf88138a2cde631082f71bb3d99668bc4a1de7f886909f1614cb0b25ec0aa"
+hash = "29aa7757b4d523a97ceca58477faa7b97141fa46cc46765b4386e4e40568bba6"
 metafile = true
 
 [[files]]
@@ -704,12 +756,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "019c0deacbb93409af392fa6bbf7f89737ad1d48cb9c22a0ed268e4d719f91ba"
+hash = "570d8ea67256d5fdcbba9504cb77c49dac326c1116d84e3c48ae5a6113fdf8a7"
 metafile = true
 
 [[files]]
 file = "mods/textrues-embeddium-options.pw.toml"
-hash = "5c7420bcee21aec07f531708d0c319077d0f66476a197c7de0a978cccae87b52"
+hash = "6cd61861eb379b9e7436764131646f6279999f32785cf0b517c4e5e30a7aee65"
 metafile = true
 
 [[files]]
@@ -734,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/utilitarian.pw.toml"
-hash = "57749fd0acaeed149f0a672fb11b078574829741da16437c5a159917f519c5ae"
+hash = "88a1360f40401554aa7ec3f51cf0900deba8773ad9302948fd18208df5b5abcd"
 metafile = true
 
 [[files]]
@@ -774,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "04766bb05ab45a66403718eb819a6e61cfe2a35ffe82546e46890cf0a6f9fe52"
+hash = "674e002d437e7f64e9824975d24757498d7594a699c03e6fd529c23ca25a9ddf"
 metafile = true
 
 [[files]]
