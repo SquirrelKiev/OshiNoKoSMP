@@ -6,7 +6,7 @@ hash = "6e67084769c1b382f961fb40b4430a8572f25bc599f4164e52d15a800b93daf1"
 
 [[files]]
 file = "config/aether-client.toml"
-hash = "6e7b3488d14ee046070ef18aa5080f44ebf195c8d426ede99c5c2c461f857585"
+hash = "bff996d6f625e6b85451126307b2e6f6a2e6bc1753783325e9d871f57f1ba1ba"
 
 [[files]]
 file = "config/aether-common.toml"

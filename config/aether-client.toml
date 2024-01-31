@@ -17,7 +17,7 @@
 	#Adds a button to the top right of the main menu screen to toggle between the panorama and world preview
 	"Enables toggle world button" = false
 	#Adds a button to the top right of the main menu screen to allow quick loading into a world if the world preview is enabled
-	"Enables quick load button" = true
+	"Enables quick load button" = false
 	#Determines that menu elements will align left if the menu's world preview is active, if true, this overrides 'Align menu elements left'
 	"Align menu elements left with world preview" = false
 	#Determines the default Aether menu style to switch to with the menu theme button
@@ -67,7 +67,7 @@
 
 [Miscellaneous]
 	#Disables the Cumulus menu selection screen button on launch
-	"Disable Cumulus button" = false
+	"Disable Cumulus button" = true
 	#Enables a direct join button for the official server
 	"Enables server button" = false
 
